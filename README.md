@@ -59,12 +59,12 @@
 
 ### 🌐 Let's Connect:
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your-email@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/username" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/harsha-kumar-a-271a76203/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ahkharsha@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/ahkharsha" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
 
 ### 🌟 Fun Fact:
-**When I'm not coding, you'll find me learning engineering or preparing for hackathons with a cup of coffee ☕!**
+**When I'm not coding, you can find me exploring new tech trends or trying to master the perfect coffee brew ☕!**
