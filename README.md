@@ -41,7 +41,7 @@
 
 ### 🏆 Hackathon Wins & Achievements:
 - 🥇 **briXchange**: Winner at `CryptoShield Hackathon '24` and `Hacker House Goa`
-- 🥈 **briXchange**: Winner at `PECHacks '24`
+- 🥈 **PolyBrix**: Winner at `PECHacks '24`
 - 🏅 **pregAthI**: Grand Finalist for `IEEE YESIST12 2024`
 - 🏅 Participated and won in various other hackathons
 
