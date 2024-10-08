@@ -11,7 +11,7 @@
 
 ### 💼 Current Roles & Projects:
 - 🔥 **Team Lead** @ `briXchange`: A blockchain-powered real estate investment platform
-- 👶 **Co-Founder** @ `pregAthI`: Enhancing prenatal care using AI, IoT, and ML
+- 👶 **Team Lead** @ `pregAthI`: Enhancing prenatal care using AI, IoT, and ML
 - 🌍 Building the future of decentralized apps at various hackathons
 
 ---
