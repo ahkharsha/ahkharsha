@@ -36,7 +36,7 @@ I leverage **AI, Blockchain, and Edge Computing** to solve critical challenges i
 
 ---
 
-### � Professional Experience
+### 🏢 Experience
 
 - **University Teaching Assistant (UTA)** @ `Vellore Institute of Technology` *(Jul 2025 – Nov 2025)*
   - Designed simplified curriculum modules to democratize coding access for non-technical freshman.
