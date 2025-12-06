@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Social+Technologist;Maternal+Health+Advocate;Economic+Security;Edge+Computing+Innovator&font=Montserrat&center=true&width=500&height=50&color=004e92&vCenter=true&pause=1000&size=24&duration=1500" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Social+Technologist;Health+Advocate;Economic+Security;Edge+Computing+Innovator&font=Montserrat&center=true&width=500&height=50&color=004e92&vCenter=true&pause=1000&size=24&duration=1000" alt="Typing SVG" />
 </p>
 
 ---
